@@ -6,6 +6,10 @@
 - 私の好きな飲み物はオレンジジュースです。🍊
 - 今までに4つのiOSアプリをリリースしています。代表作は「勉強スケジュール　べんすけ」です。勉強　×　自動スケジュール
 - 2020年度アプリ甲子園ファイナリストに選ばれ、アプリのプレゼンをしました。
+<a href="https://www.youtube.com/watch?v=obNrSDPVAEM">
+  <img src="https://img.youtube.com/vi/obNrSDPVAEM/maxresdefault.jpg" alt="YouTube video link" width="200">
+</a>
+
 # よろしくお願いします！👏
 
 <!--
